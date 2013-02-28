@@ -1,0 +1,13 @@
+Project goal is to facilitate users to access connected Configured Scanners  directly from web page.
+No Need to register or copy any DLL's at user side. It's a web based  i.e. Java Applet web embedded.
+User is able to Scan,capture, crop and save images from a Scanner (all in web page) to his PC or to the configured remote server.
+
+For Executing: Download Signed JAR i.e. scanner.jar available in Signed JAR Folder and embed in HTML File as Java Applet invoking scanning.java class.
+
+Standalone Applet: Run scanning.java class for executing the project.
+Just Export this myeclipse code as a Jar, Sign it and embed it in a web page as Java Applet invoking scanning.java class.
+
+Pre-requisites: JAVA Enabled browser, JRE Installed
+
+Want to see Running App:
+http://ashmek.weebly.com/1/post/2013/02/webcam-image-capturing-and-cropping-in-web-browser.html
