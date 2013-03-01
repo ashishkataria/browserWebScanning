@@ -8,7 +8,7 @@ For Executing: Check Examples Folder, run webScanning.html.
 
 Standalone Applet: Import entire code into myeclipse and run scanning.java class for executing the project.
 
-Web Page: Just Export this myeclipse code as a scanning.jar, Sign it and embed it in a web page as Java Applet invoking scanning.class (Include all ij.jar,plugin.jar,twain.jar along with scanning.jar in applet archive as signed jars).
+Web Page: Just Export this myeclipse code as a scanning.jar, Sign it and embed it in a web page as Java Applet invoking scanning.class (Include all ij.jar,plugin.jar,twain.jar along with scanning.jar in applet archive tag as signed jars).
 
 Pre-requisites: JAVA Enabled browser, JRE Installed
 
