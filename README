@@ -13,6 +13,3 @@ Standalone Applet: Import entire code into myeclipse and run scanning.java class
 Web Page: Just Export this myeclipse code as a scanning.jar, Sign it and embed it in a web page as Java Applet invoking scanning.class (Include all ij.jar,plugin.jar,twain.jar along with scanning.jar in applet archive tag as signed jars).
 
 Pre-requisites: JAVA Enabled browser, JRE Installed
-
-Want to see Running App:
-http://ashmek.weebly.com/1/post/2013/02/webcam-image-capturing-and-cropping-in-web-browser.html
