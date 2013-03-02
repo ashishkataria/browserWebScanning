@@ -2,6 +2,8 @@ Project goal is to facilitate users to access connected Configured Scanners  dir
 No Need to register or copy any DLL's at user side. It's a web based  i.e. Java Applet web embedded.
 User is able to Scan,capture, crop and save images from a Scanner (all in web page) to his PC or to the configured remote server.
 
+Added prominent Live image cropping feature. 
+
 Libraries Used: uk.co.mmscomputing.device.twain, ImageJ.
 
 For Executing: Check Examples Folder, run webScanning.html.
